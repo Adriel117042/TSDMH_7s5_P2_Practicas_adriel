@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_Prac1_par2_Adriel</string>
+    <string name="p1titulo">Manejo de Componentes Views</string>
+    <string name="p1btn_1">Primer Boton</string>
+    <string name="p1btn_2">Segundo Boton</string>
+    <string-array name="estados">
+        <item>Chihuahua</item>
+        <item>Edo Mexico</item>
+        <item>CDMX</item>
+        <item>Puebla</item>
+        <item>Oaxaca</item>
+    </string-array>
+
+</resources>
